@@ -1,0 +1,15 @@
+cv3dst_exercise/data/*
+cv3dst_exercise/output/*
+cv3dst_reid_exercise/data/*
+cv3dst_reid_exercise/output/*
+cv3dst_exercise/models/*
+cv3dst_reid_exercise/models/*
+*.xml
+*.zip
+*.gz
+.vscode/*
+.idea/*
+*.pyc
+*.pyo
+cv3dst_gnn_exercise/data/*
+cv3dst_gnn_exercise/output/*
